@@ -1,0 +1,11 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main()
+{
+   int x,y;
+   cin>>x>>y;
+   int addition =x+y;
+   cout<<addition<<"\n";
+
+    return 0;
+}
